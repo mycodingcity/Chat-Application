@@ -17,17 +17,17 @@ I'm currently looking for feedback on the chat application, so please feel free 
 
 ## Features
 
-1.Built on HTML, CSS, Javascript and Nodejs
+1. Built on HTML, CSS, Javascript and Nodejs
 
-1.User's can easily Interact
+2. Users can easily Interact
 
-2.Error handling and loading info
+3. Error handling and loading info
 
-3.Basic and Simple to use
+4. Basic and Simple to use
 
-4.Minimum lines of code
+5. Minimum lines of code
 
-6.Beginner Frinedly Project
+6. Beginner Friendly Project
 
 
 
